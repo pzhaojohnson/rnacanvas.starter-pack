@@ -23,5 +23,6 @@ module.exports = {
       name: 'starterPack',
       type: 'umd',
     },
+    clean: true,
   },
 };

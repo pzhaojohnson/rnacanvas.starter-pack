@@ -1,6 +1,6 @@
 {
   "name": "@rnacanvas/starter-pack",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "A starting point for new RNAcanvas packages to build off of",
   "main": "./dist/index.js",
   "scripts": {
