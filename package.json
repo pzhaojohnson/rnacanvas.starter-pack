@@ -1,7 +1,11 @@
 {
   "name": "@rnacanvas/starter-pack",
-  "version": "1.1.1",
+  "version": "1.2.0",
   "description": "A starting point for new RNAcanvas packages to build off of",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pzhaojohnson/rnacanvas.starter-pack.git"
+  },
   "main": "./dist/index.js",
   "scripts": {
     "test": "jest",
