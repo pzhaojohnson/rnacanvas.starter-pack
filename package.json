@@ -1,6 +1,6 @@
 {
   "name": "@rnacanvas/starter-pack",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "A starting point for new RNAcanvas packages to build off of",
   "repository": {
     "type": "git",
