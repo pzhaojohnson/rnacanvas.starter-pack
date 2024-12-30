@@ -1,7 +1,7 @@
 {
   "name": "@rnacanvas/starter-pack",
-  "version": "2.0.1",
-  "description": "A starting point for new RNAcanvas packages to build off of",
+  "version": "2.0.2",
+  "description": "Package template",
   "repository": {
     "type": "git",
     "url": "https://github.com/pzhaojohnson/rnacanvas.starter-pack.git"
