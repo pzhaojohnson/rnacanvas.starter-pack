@@ -1,6 +1,6 @@
 {
   "name": "@rnacanvas/starter-pack",
-  "version": "2.1.0",
+  "version": "2.2.0",
   "description": "Package template",
   "repository": {
     "type": "git",
@@ -18,8 +18,10 @@
     "@babel/preset-env": "^7.23.7",
     "@babel/preset-typescript": "^7.23.3",
     "babel-jest": "^29.7.0",
+    "css-loader": "^7.1.2",
     "jest": "^29.7.0",
     "jest-environment-jsdom": "^29.7.0",
+    "style-loader": "^4.0.0",
     "ts-loader": "^9.5.1",
     "typescript": "^5.3.3",
     "webpack": "^5.89.0",
