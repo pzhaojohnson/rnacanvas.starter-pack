@@ -1,6 +1,6 @@
 {
   "name": "@rnacanvas/starter-pack",
-  "version": "3.0.0",
+  "version": "3.1.0",
   "description": "Package template",
   "repository": {
     "type": "git",
@@ -26,5 +26,8 @@
     "typescript": "^5.3.3",
     "webpack": "^5.89.0",
     "webpack-cli": "^6.0.1"
+  },
+  "dependencies": {
+    "jquery": "^3.7.1"
   }
 }
